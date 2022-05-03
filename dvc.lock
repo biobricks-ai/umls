@@ -1,0 +1,12 @@
+schema: '2.0'
+stages:
+  process:
+    cmd: Rscript R/process.R
+    deps:
+    - path: R/process_mrconso.R
+      md5: 1f70ce17bf8121a2743ab49483dde185
+      size: 844
+    outs:
+    - path: data/MRCONSO.parquet
+      md5: 7956c24cc7d27d68bf1ac899a084e13e
+      size: 637094591
