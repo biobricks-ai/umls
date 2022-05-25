@@ -1,3 +1,5 @@
+<a href="https://github.com/biobricks-ai/UMLS/actions"><img src="https://github.com/biobricks-ai/UMLS/actions/workflows/bricktools-check.yaml/badge.svg?branch=main"/></a>
+
 # Description
 
 >The [UMLS](https://www.nlm.nih.gov/research/umls/index.html) integrates and distributes key terminology, classification and coding standards, and associated resources to promote creation of more effective and interoperable biomedical information systems and services, including electronic health records.
